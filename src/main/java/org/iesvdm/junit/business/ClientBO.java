@@ -10,5 +10,5 @@ public interface ClientBO {
 
 	Amount getClientProductsSum(List<Product> products)
 			throws DifferentCurrenciesException;
-
+//Comertario de ejemplo para editar 
 }
